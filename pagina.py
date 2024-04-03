@@ -14,4 +14,3 @@ st.map()
 
 st.write("fgdfkgsdfçglnsdjçnsd")
 
-Escrevendo só para testar mesmo
