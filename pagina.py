@@ -13,3 +13,5 @@ col3.video("https://www.youtube.com/watch?v=s3sCmdBpusQ&t=185s&ab_channel=ANCAPS
 st.map()
 
 st.write("fgdfkgsdfçglnsdjçnsd")
+
+Escrevendo só para testar mesmo
